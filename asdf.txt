@@ -2,3 +2,4 @@ Hola, qué tal? Estoy probando por mi cuenta los commit y etc. en el archivo de 
 De momento se me marcan algunas sílabas y letras solas cuando las escribo al principio de las palabras...
 Lo estaba probando en el css... estoy tonto. Ahora sí que va bien, claramente. Quiero tocarme una obra de
 Bach completa, que la estoy escuchando de fondo, y me gustaría grabarme con eso, así que a estudiar.
+
